@@ -4,8 +4,8 @@ body{
 }
 
 #header{
-    width: 1280px;
-    height: 80px;
+    width: 100%;
+    height: 85px;
     margin: 0px auto;
 }
 
