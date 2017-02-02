@@ -2,6 +2,7 @@ div #header {
     width: 100%;
     height: 85px;
     margin: 0px auto;
+    background: blue;
 }
 
 ul #nav {
