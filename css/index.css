@@ -40,14 +40,14 @@ body{
     margin: 0 auto;
 }
 
-.sitetxt {
+.texto {
     width: 550px;
     float: left;
     margin: 0 180px;
     font-size-adjust: auto;
 }
 
-.logoimg {
+.image {
     width: 300px;
     float: left;
     margin: center;
