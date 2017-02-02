@@ -77,14 +77,14 @@ body{
 }
 
 .cards {
-    width: 50%;
+    width: 1240px;
     float: left;
     margin: 0;
 }
 
 #aco {
     background: url('aco.png') no-repeat;
-    width: 50%;
+    width: 1240px;
     height: 300px;
     margin: 0;
 }
