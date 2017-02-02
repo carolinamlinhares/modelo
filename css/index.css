@@ -43,6 +43,7 @@ body{
     width: 550px;
     float: left;
     margin-left: 150px;
+    margin-top: 65px;
 }
 
 .imglogo {
@@ -64,12 +65,13 @@ body{
     width: 550px;
     float: right;
     margin-right: 150px;
+    margin top: 65px;
 }
 
 .imgreport {
     width: 150px;
     float: left;
     margin-left: 150px;
-    margin-top: 50px;
+    margin-top: 55px;
     color: #41bef6;
 }
