@@ -84,14 +84,14 @@ body{
 #aco {
     background: url('index.css/aco.png') no-repeat;
     height: 300px;
-    margin: 0 20px;
+    margin: 0 auto;
     float: left;
 }
 
 #concreto {
     background: url('concreto.png') no-repeat;
     height: 300px;
-    margin: 0 20px;
+    margin: 0 auto;
     float: right;
 }
 
