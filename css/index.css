@@ -77,18 +77,8 @@ body{
 }
 
 .cards {
-    width: 270px;
-    float: left;
-    position: relative;
-    
-}
-
-.cards a {
-    border: solid 2px;
-    position: absolute;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    
+    width: 50%;
+    float: left;    
 }
 
 #aco {
