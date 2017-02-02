@@ -77,21 +77,20 @@ body{
 }
 
 .cards {
-    width: 1240px;
     float: left;
     margin: 0;
 }
 
 #aco {
     background: url('aco.png') no-repeat;
-    width: 1240px;
+    width: 1000px;
     height: 300px;
     margin: 0;
 }
 
 #concreto {
     background: url('concreto.png') no-repeat;
-    width: 50%;
+    width: 1000px;
     height: 300px;
     margin: 0;
 }
