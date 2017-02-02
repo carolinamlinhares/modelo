@@ -51,8 +51,8 @@ body{
 }
 
 .image {
-    width: 300px;
-    float: left;
+    width: 150px;
+    float: right;
     margin-right: 150px;
     color: #41bef6;
 }
