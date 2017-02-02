@@ -43,8 +43,7 @@ body{
 .texto {
     width: 550px;
     float: left;
-    margin: 0 180px;
-    font-size-adjust: auto;
+    margin-left: 150px;
 }
 
 .image {
