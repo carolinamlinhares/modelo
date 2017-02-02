@@ -85,10 +85,12 @@ body{
     background: url('aco.png') no-repeat;
     width: 50%;
     height: 300px;
+    margin: 0;
 }
 
 #concreto {
     background: url('concreto.png') no-repeat;
     width: 50%;
     height: 300px;
+    margin: 0;
 }
