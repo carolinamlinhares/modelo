@@ -33,26 +33,39 @@ body{
     color: #000000;
 }
 
-#section1 {
+#site {
     width: 100%;
     margin: 0 auto;
 }
 
-#section2 {
-    width: 100%;
-    margin: 0 auto;
-    background-color: #f1f1f1;
-}
-
-.texto {
+.txtsite {
     width: 550px;
     float: left;
     margin-left: 150px;
 }
 
-.image {
+.imglogo {
     width: 150px;
     float: right;
     margin-right: 150px;
+    color: #41bef6;
+}
+
+#report {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+}
+
+txtreport {
+    width: 550px;
+    float: left;
+    margin-right: 150px;
+}
+
+.imgreport {
+    width: 150px;
+    float: right;
+    margin-left: 150px;
     color: #41bef6;
 }
