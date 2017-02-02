@@ -46,6 +46,10 @@ body{
     margin-left: 150px;
 }
 
+#site {
+    color: #f1f1f1;
+}
+
 .image {
     width: 300px;
     float: left;
