@@ -49,6 +49,6 @@ body{
 .image {
     width: 300px;
     float: left;
-    margin: center;
+    margin-right: 150px;
     color: #41bef6;
 }
