@@ -83,7 +83,7 @@ body{
 
 #aco {
     background: url('index.css/aco.png') no-repeat;
-    width: 450px;
+    width: 400px;
     height: 300px;
     margin: 0;
     float: left;
@@ -91,7 +91,7 @@ body{
 
 #concreto {
     background: url('concreto.png') no-repeat;
-    width: 450px;
+    width: 400px;
     height: 300px;
     margin: 0;
     float: left;
@@ -113,6 +113,6 @@ body{
 .imgmobile {
     width: 150px;
     float: right;
-    margin-right: 150px;
+    margin-right: 300px;
     margin-top: 15px;
 }
