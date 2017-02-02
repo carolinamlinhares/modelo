@@ -63,6 +63,7 @@ body{
 .txtreport {
     width: 550px;
     float: right;
+    margin: auto;
     margin-left: 150px;
 }
 
