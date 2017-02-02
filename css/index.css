@@ -86,6 +86,7 @@ body{
     width: 50%;
     height: 300px;
     margin: 0;
+    float: left;
 }
 
 #concreto {
@@ -93,6 +94,7 @@ body{
     width: 50%;
     height: 300px;
     margin: 0;
+    float: right;
 }
 
 #mobile {
