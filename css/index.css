@@ -63,8 +63,7 @@ body{
 .txtreport {
     width: 550px;
     float: right;
-    margin: auto;
-    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .imgreport {
