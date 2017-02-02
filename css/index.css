@@ -75,3 +75,16 @@ body{
     margin-top: 55px;
     color: #41bef6;
 }
+
+.cards {
+    width: 270px;
+    float: left;
+}
+
+#aco {
+    background: url('aco.png') no-repeat;
+}
+
+#concreto {
+    background: url('concreto.png') no-repeat;
+}
