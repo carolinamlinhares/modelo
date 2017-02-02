@@ -1,18 +1,22 @@
-div #header {
-    width: 100%;
-    height: 85px;
-    margin: 0px auto;
+body{
     background: blue;
 }
 
-ul #nav {
+div#header{
+    width: 100%;
+    height: 85px;
+    background: blue;
+    margin: 0px auto;
+}
+
+ul#nav{
     list-style: none;
     padding-left: 0px;
     float: left;
     margin-left: 450px;
 }
 
-ul #nav li{
+ul#nav li{
     float: left;
     margin-right: 60px;
 }
